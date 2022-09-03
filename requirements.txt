@@ -1,5 +1,6 @@
 #pyexpat
 #expatriate
+openpyxl
 pandas
 streamlit
 scikit-learn
