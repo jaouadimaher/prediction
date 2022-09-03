@@ -1,5 +1,5 @@
-pyexpat == 3.7.11
-expatriate
+#pyexpat
+#expatriate
 pandas
 streamlit
 scikit-learn
