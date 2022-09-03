@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run test.py && pip install expatriate
+web: sh setup.sh && streamlit run test.py
