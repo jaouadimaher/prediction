@@ -1,4 +1,5 @@
 #pyexpat
+expatriate
 pandas
 streamlit
 scikit-learn
