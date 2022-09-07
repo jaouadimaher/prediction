@@ -7,9 +7,7 @@ from sklearn.linear_model import SGDClassifier
 from sklearn.metrics import accuracy_score
 import numpy as np
 
-st.write("""
-# creditworthiness of potential customers Prediction App This app predicts the **creditworthiness **
-""")
+st.write(""" # **creditworthiness ** """)
 
 
 st.sidebar.header('User Input Parameters')
